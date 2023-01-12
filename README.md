@@ -1,2 +1,1 @@
-# data-modeling---pergresp-
-Modelagem do banco de dados do projeto (PERGRESP) 
+# Modelagem do banco de dados para o Sistema (PERGRESP)
